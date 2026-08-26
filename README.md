@@ -23,7 +23,7 @@ Results-driven Full Stack Developer with a proven track record of architecting r
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%23003B57.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Shopify Liquid](https://img.shields.io/badge/Shopify_Liquid-95BF47.svg?style=for-the-badge&logo=Shopify&logoColor=white)
 
@@ -36,7 +36,7 @@ Results-driven Full Stack Developer with a proven track record of architecting r
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white)
-![Shadcn UI](https://img.shields.io/badge/shadcn%20ui-000000.svg?style=for-the-badge&logo=shadcn.ui&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/shadcn%20ui-000000.svg?style=for-the-badge&logo=shadcn/ui&logoColor=white)
 ![NativeWind](https://img.shields.io/badge/NativeWind-0F172A.svg?style=for-the-badge)
 
 **Backend:**  
