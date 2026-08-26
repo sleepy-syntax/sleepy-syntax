@@ -1,4 +1,4 @@
-# Hi there, I'm Suyash Gopalrao Parate! 👋
+# Hi there, I'm Suyash! 👋
 
 ### 🚀 Full Stack Developer | 5+ Years of Experience | React, Next.js, Node.js, AWS
 
