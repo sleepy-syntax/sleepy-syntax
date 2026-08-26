@@ -58,6 +58,8 @@ Results-driven Full Stack Developer with a proven track record of architecting r
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Render.io](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-%230B0D0E.svg?style=for-the-badge&logo=railway&logoColor=white)
 ![Cloudflare R2](https://img.shields.io/badge/Cloudflare_R2-F38020.svg?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![BullMQ](https://img.shields.io/badge/BullMQ-FF3300.svg?style=for-the-badge)
