@@ -11,7 +11,7 @@ Results-driven Full Stack Developer with a proven track record of architecting r
 - 🏢 I'm currently working as a **Full Stack Developer** at **Mithya Labs**.
 - 🏗️ I have engineered and contributed to various large-scale platforms like **Dorii**, **Playground**, **Palatial**, and **Stay with Stay**.
 - 🛠️ I love working with **React, Next.js, Node.js, NestJS,** and exploring **Web3**.
-- 💬 Ask me about: **Frontend Architecture, Backend Microservices, Cloud DevOps (AWS/Docker/K8s), and Database Optimization.**
+- 💬 Ask me about: **Frontend Architecture, Backend Microservices, Cloud DevOps (AWS/GCP/Docker/K8s), and Database Optimization.**
 - 📫 Reach out to me: **[suyashparate78@gmail.com](mailto:suyashparate78@gmail.com)** or connect on **[LinkedIn](https://www.linkedin.com/in/suyash-parate-7b0580216)**!
 
 ---
@@ -57,6 +57,7 @@ Results-driven Full Stack Developer with a proven track record of architecting r
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-%230B0D0E.svg?style=for-the-badge&logo=railway&logoColor=white)
@@ -78,6 +79,7 @@ Results-driven Full Stack Developer with a proven track record of architecting r
 ![Mailchimp](https://img.shields.io/badge/Mailchimp-FFE01B.svg?style=for-the-badge&logo=Mailchimp&logoColor=black)
 ![Web3 (Thirdweb)](https://img.shields.io/badge/Web3-F16822.svg?style=for-the-badge&logo=web3.js&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black.svg?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333.svg?style=for-the-badge&logo=webrtc&logoColor=white)
 ![Contentful CMS](https://img.shields.io/badge/Contentful-2478CC.svg?style=for-the-badge&logo=Contentful&logoColor=white)
 ![Agility CMS](https://img.shields.io/badge/Agility_CMS-754DE8.svg?style=for-the-badge)
 ![Segment](https://img.shields.io/badge/Segment-52BD94.svg?style=for-the-badge&logo=Segment&logoColor=white)
